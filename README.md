@@ -11,5 +11,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishal15276&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Leetcode_Stats](https://leetcard.jacoblin.cool/Vishal15276?theme=dark&font=Poor%20Story&ext=heatmap).
+<!--_Stats Proudly created with GPRM ( https://gprm.itsvg.in ) -->
